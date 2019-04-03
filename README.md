@@ -6,4 +6,4 @@ You can run processes like this with AWS Lambda or across remote networks.  Ther
 
 This module is a proof of concept on the development side of creating such a tool.
 
-### Use at your own risk!  Running this tool accross multiple networks can knock down your server or get you flagged for malicous intent.  Please make sure to only direct this module towards your own instances.  
+### Use at your own risk!  Running this tool across multiple networks can knock down your server or get you flagged for malicous intent.  Please make sure to only direct this module towards your own instances.  
